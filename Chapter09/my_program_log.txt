@@ -1,0 +1,254 @@
+ 2018-11-18 07:09:16,858 - INFO - Start of program
+ 2018-11-18 07:09:16,858 - DEBUG - debug message
+ 2018-11-18 07:09:29,241 - INFO - Start of program
+ 2018-11-18 07:09:29,242 - DEBUG - debug message
+ 2018-11-18 07:09:31,246 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:09:33,338 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:11:38,536 - INFO - Start of program
+ 2018-11-18 07:11:38,537 - DEBUG - debug message
+ 2018-11-18 07:11:40,541 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:11:42,634 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:11:44,724 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:11:46,813 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:11:48,903 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:11:50,992 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:11:53,093 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:11:55,185 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:11:57,275 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:11:59,363 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:12:01,453 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:12:03,543 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:12:05,635 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:12:07,731 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:12:09,821 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:12:11,911 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:12:14,016 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:12:16,106 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:12:18,198 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:12:20,288 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:12:22,377 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:12:24,468 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:12:26,558 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:12:28,649 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:12:30,740 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:12:43,008 - INFO - Start of program
+ 2018-11-18 07:12:43,008 - DEBUG - debug message
+ 2018-11-18 07:12:45,013 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:13:32,592 - INFO - Start of program
+ 2018-11-18 07:13:32,592 - DEBUG - debug message
+ 2018-11-18 07:13:34,597 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:13:34,684 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3b8fd0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:13:36,688 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:13:36,775 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6690>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:13:38,779 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:13:38,866 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6790>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:13:40,869 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:13:40,956 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6550>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:13:42,959 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:13:43,046 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6590>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:13:45,049 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:13:45,136 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6650>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:13:47,140 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:13:47,228 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6350>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:13:49,231 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:13:49,327 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6790>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:13:51,329 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:13:51,415 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6190>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:13:53,418 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:13:53,505 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6590>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:13:55,509 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:13:55,596 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d63d0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:13:57,599 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:13:57,686 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6350>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:13:59,688 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:13:59,776 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d61d0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:01,780 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:01,866 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6190>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:03,870 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:03,957 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6410>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:05,959 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:06,046 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d63d0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:08,049 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:08,138 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6250>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:10,142 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:10,240 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d61d0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:12,243 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:12,333 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6510>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:14,335 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:14,424 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6410>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:16,427 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:16,516 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6310>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:18,519 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:18,607 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6250>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:20,611 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:20,697 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6150>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:22,701 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:22,789 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6510>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:24,793 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:24,879 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6450>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:26,883 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:26,969 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6310>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:28,972 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:29,059 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6290>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:31,062 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:31,158 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6150>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:33,162 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:33,248 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6110>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:35,252 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:35,339 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6450>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:37,342 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:37,429 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6390>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:39,433 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:39,519 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6290>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:41,523 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:41,609 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6090>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:43,611 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:43,698 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f934c3d6110>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:49,328 - INFO - Start of program
+ 2018-11-18 07:14:49,328 - DEBUG - debug message
+ 2018-11-18 07:14:49,328 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 07:14:51,333 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:51,420 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0f273bc050>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:51,420 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 07:14:53,424 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:53,519 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0f273bc6d0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:53,520 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 07:14:55,523 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:55,609 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0f273bc7d0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:55,610 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 07:14:57,613 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:57,699 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0f273bc590>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:57,699 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 07:14:59,703 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:14:59,789 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0f273bc5d0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:14:59,789 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 07:15:01,793 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:15:01,881 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0f273bc690>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:15:01,882 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 07:15:03,885 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 07:15:03,972 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0f273bc390>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 07:15:03,972 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 08:19:37,557 - INFO - Start of program
+ 2018-11-18 08:19:37,557 - DEBUG - debug message
+ 2018-11-18 08:19:37,557 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 08:19:42,565 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 08:19:42,651 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2bc3877050>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 08:19:42,651 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 08:19:47,657 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 08:19:47,752 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2bc38776d0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 08:19:47,753 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 08:19:52,759 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 08:19:52,846 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2bc38777d0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 08:19:52,846 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 08:19:57,852 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 08:19:57,939 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2bc3877590>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 08:19:57,939 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 08:20:02,945 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 08:20:03,032 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2bc38775d0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 08:20:03,032 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 08:20:08,038 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 08:20:08,163 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2bc3877690>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 08:20:08,163 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 08:20:13,169 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 08:20:13,257 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2bc3877390>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 08:20:13,257 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 08:20:18,262 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 08:20:18,349 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2bc3877050>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 08:20:18,349 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 08:20:23,355 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 08:20:23,442 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2bc38771d0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 08:20:23,442 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 08:20:28,445 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 08:20:28,531 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2bc38777d0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 08:20:28,532 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 08:20:33,534 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 08:20:33,630 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2bc3877410>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 08:20:33,630 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 08:20:38,635 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 08:20:38,724 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2bc38775d0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 08:20:38,725 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 08:20:43,731 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 08:20:43,820 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2bc3877210>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 08:20:43,820 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 08:20:48,826 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 08:20:48,913 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2bc3877390>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 08:20:48,913 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 08:20:53,919 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 08:20:54,017 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2bc3877450>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 08:20:54,017 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 08:20:59,021 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 08:20:59,107 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2bc38771d0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 08:20:59,107 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 08:21:04,114 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 08:21:04,201 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2bc3877290>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 08:21:04,201 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 08:21:09,207 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 08:21:09,298 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2bc3877410>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 08:21:09,298 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 08:21:26,056 - INFO - Start of program
+ 2018-11-18 08:21:26,056 - DEBUG - debug message
+ 2018-11-18 08:21:26,056 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 08:21:31,064 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 08:21:31,153 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0c70557050>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 08:21:31,153 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 08:21:36,161 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 08:21:36,247 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0c705576d0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 08:21:36,248 - DEBUG - trying to connect http://www.google.comd
+ 2018-11-18 08:21:41,249 - DEBUG - Starting new HTTP connection (1): www.google.comd
+ 2018-11-18 08:21:41,336 - DEBUG - oops,errror:HTTPConnectionPool(host='www.google.comd', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0c705577d0>: Failed to establish a new connection: [Errno -2] Name or service not known',))
+ 2018-11-18 08:23:53,050 - INFO - Start of program
+ 2018-11-18 08:23:53,050 - DEBUG - trying to connect http://www.google.com
+ 2018-11-18 08:23:58,054 - DEBUG - Starting new HTTP connection (1): www.google.com
+ 2018-11-18 08:23:58,846 - DEBUG - http://www.google.com:80 "GET / HTTP/1.1" 200 4941
+ 2018-11-18 08:23:58,850 - DEBUG - Awesome,Got Google
+ 2018-11-18 08:23:58,850 - INFO - End of program
+ 2018-11-18 08:23:58,850 - DEBUG - trying to connect http://www.google.com
+ 2018-11-18 08:24:03,853 - DEBUG - Starting new HTTP connection (1): www.google.com
+ 2018-11-18 08:24:04,229 - DEBUG - http://www.google.com:80 "GET / HTTP/1.1" 200 4973
+ 2018-11-18 08:24:04,231 - DEBUG - Awesome,Got Google
+ 2018-11-18 08:24:04,231 - INFO - End of program
+ 2018-11-18 08:24:04,231 - DEBUG - trying to connect http://www.google.com
+ 2018-11-18 08:24:09,236 - DEBUG - Starting new HTTP connection (1): www.google.com
+ 2018-11-18 08:24:09,615 - DEBUG - http://www.google.com:80 "GET / HTTP/1.1" 200 4939
+ 2018-11-18 08:24:09,617 - DEBUG - Awesome,Got Google
+ 2018-11-18 08:24:09,617 - INFO - End of program
+ 2018-11-18 08:24:09,617 - DEBUG - trying to connect http://www.google.com
+ 2018-11-18 08:24:14,623 - DEBUG - Starting new HTTP connection (1): www.google.com
+ 2018-11-18 08:24:14,994 - DEBUG - http://www.google.com:80 "GET / HTTP/1.1" 200 4940
+ 2018-11-18 08:24:14,995 - DEBUG - Awesome,Got Google
+ 2018-11-18 08:24:14,995 - INFO - End of program
+ 2018-11-18 08:24:14,995 - DEBUG - trying to connect http://www.google.com
+ 2018-11-18 08:24:20,002 - DEBUG - Starting new HTTP connection (1): www.google.com
+ 2018-11-18 08:24:20,379 - DEBUG - http://www.google.com:80 "GET / HTTP/1.1" 200 4971
+ 2018-11-18 08:24:20,380 - DEBUG - Awesome,Got Google
+ 2018-11-18 08:24:20,380 - INFO - End of program
+ 2018-11-18 08:24:20,381 - DEBUG - trying to connect http://www.google.com
+ 2018-11-18 08:24:25,387 - DEBUG - Starting new HTTP connection (1): www.google.com
+ 2018-11-18 08:24:25,763 - DEBUG - http://www.google.com:80 "GET / HTTP/1.1" 200 4929
+ 2018-11-18 08:24:25,764 - DEBUG - Awesome,Got Google
+ 2018-11-18 08:24:25,764 - INFO - End of program
+ 2018-11-18 08:24:25,765 - DEBUG - trying to connect http://www.google.com
+ 2018-11-18 08:24:30,769 - DEBUG - Starting new HTTP connection (1): www.google.com
+ 2018-11-18 08:24:31,146 - DEBUG - http://www.google.com:80 "GET / HTTP/1.1" 200 4932
+ 2018-11-18 08:24:31,148 - DEBUG - Awesome,Got Google
+ 2018-11-18 08:24:31,148 - INFO - End of program
+ 2018-11-18 08:24:31,148 - DEBUG - trying to connect http://www.google.com
+ 2018-11-18 08:24:36,154 - DEBUG - Starting new HTTP connection (1): www.google.com
+ 2018-11-18 08:24:36,525 - DEBUG - http://www.google.com:80 "GET / HTTP/1.1" 200 4953
+ 2018-11-18 08:24:36,526 - DEBUG - Awesome,Got Google
+ 2018-11-18 08:24:36,526 - INFO - End of program
+ 2018-11-18 08:24:36,526 - DEBUG - trying to connect http://www.google.com
+ 2018-11-18 08:24:41,533 - DEBUG - Starting new HTTP connection (1): www.google.com
+ 2018-11-18 08:24:41,907 - DEBUG - http://www.google.com:80 "GET / HTTP/1.1" 200 4954
+ 2018-11-18 08:24:41,909 - DEBUG - Awesome,Got Google
+ 2018-11-18 08:24:41,909 - INFO - End of program
+ 2018-11-18 08:24:41,909 - DEBUG - trying to connect http://www.google.com
+ 2018-11-18 08:24:46,916 - DEBUG - Starting new HTTP connection (1): www.google.com
+ 2018-11-18 08:24:47,288 - DEBUG - http://www.google.com:80 "GET / HTTP/1.1" 200 4952
+ 2018-11-18 08:24:47,290 - DEBUG - Awesome,Got Google
+ 2018-11-18 08:24:47,290 - INFO - End of program
+ 2018-11-18 08:24:47,290 - DEBUG - trying to connect http://www.google.com
+ 2018-11-18 08:24:52,297 - DEBUG - Starting new HTTP connection (1): www.google.com
+ 2018-11-18 08:24:52,670 - DEBUG - http://www.google.com:80 "GET / HTTP/1.1" 200 4956
+ 2018-11-18 08:24:52,671 - DEBUG - Awesome,Got Google
+ 2018-11-18 08:24:52,671 - INFO - End of program
